@@ -43,9 +43,9 @@ Com o ambiente virtual ativo e as dependências instaladas já é possível exec
 
 1. Executar a versão de terminal:
     ```bash
-    python3 TrustTableGenerator.py.py
+    python3 TruthTableGenerator.py.py
     ```
 2. Executar a interface gráfica:
     ```bash
-    python3 GUI_TrustTableGenerator.py
+    python3 GUI_TruthTableGenerator.py
         
